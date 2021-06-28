@@ -9,4 +9,4 @@ A. Members:
   5. Phan Duc Hoa
 
 B. Our Dearest Teacher: 
-  Miss Trinh Thi Van Anh
+  Ms. Trinh Thi Van Anh
