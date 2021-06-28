@@ -8,5 +8,5 @@ A. Members:
   4. Ly Minh Nghia
   5. Phan Duc Hoa
 
-B. Our Dearest Teacher: 
+B. Our Dearest Teacher:\n 
   Ms. Trinh Thi Van Anh
