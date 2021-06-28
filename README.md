@@ -11,3 +11,5 @@ A. Members:
 B. Our Dearest Teacher:
 
    Ms. Trinh Thi Van Anh
+
+##You can download the .zip version to run the file on your device.
