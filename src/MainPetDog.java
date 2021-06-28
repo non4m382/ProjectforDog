@@ -12,7 +12,7 @@ public class MainPetDog {
         System.out.println("\nA. Members:\n  1. Tran Thuy Trang\n  2. Nguyen Trong Duc  "
                 + "\n  3. Luong Ngoc Anh\n  4. Ly Minh Nghia\n  5. Phan Duc Hoa");
         System.out.println("\nB. Our Dearest Teacher: \n"
-                + "  Miss Trinh Thi Van Anh");
+                + "  Ms. Trinh Thi Van Anh");
         System.out.println("********************************");
         while (true) {
             System.out.println("\n");
